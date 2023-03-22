@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mor/static/css/main.f1ebc8c4.css",
+    "main.js": "/mor/static/js/main.15f7a6c7.js",
+    "static/media/logo.png": "/mor/static/media/logo.7249c132022b75101791.png",
+    "index.html": "/mor/index.html",
+    "main.f1ebc8c4.css.map": "/mor/static/css/main.f1ebc8c4.css.map",
+    "main.15f7a6c7.js.map": "/mor/static/js/main.15f7a6c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ebc8c4.css",
+    "static/js/main.15f7a6c7.js"
+  ]
+}
